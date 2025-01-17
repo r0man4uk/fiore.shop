@@ -1,0 +1,22 @@
+{
+  "name": "fiore-r0man4uk",
+  "version": "1.0.0",
+  "description": "fiore node.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0man4uk/fiore.shop.git"
+  },
+  "author": "Yuriy Romanchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0man4uk/fiore.shop/issues"
+  },
+  "homepage": "https://github.com/r0man4uk/fiore.shop#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
