@@ -1,6 +1,5 @@
 const fs = require("fs");
 const { error } = require("console");
-const http = require("http");
 
 // fs.readFile("Readme.txt", "utf-8", (error, data) => {
 //     if (error) throw error;
@@ -15,7 +14,3 @@ const http = require("http");
 //     }
 // });
 
-http.createServer(function (request, response) {
-    console.log(request.headers);
-}
-).listen(5000);
